@@ -2,10 +2,15 @@
     "available_space": true,
     "files": [
         {
+            "name": "George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4",
+            "path": "music_e1/videos/George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4",
+            "size": 12.677545984
+        },
+        {
             "name": "The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4",
             "path": "music_e1/videos/The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4",
             "size": 17.80132864
         }
     ],
-    "total_size": 17.80132864
+    "total_size": 30.478874624
 }
