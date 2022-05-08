@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4",
+            "path": "music_e1/videos/The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4",
+            "size": 17.80132864
+        }
+    ],
+    "total_size": 17.80132864
 }
