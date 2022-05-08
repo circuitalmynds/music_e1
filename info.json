@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Where's My Bess-j4JCeeSaDKs.mp4",
+            "path": "music_e1/videos/Where's My Bess-j4JCeeSaDKs.mp4",
+            "size": 4.629781504
+        },
+        {
             "name": "George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4",
             "path": "music_e1/videos/George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4",
             "size": 12.677545984
@@ -12,5 +17,5 @@
             "size": 17.80132864
         }
     ],
-    "total_size": 30.478874624
+    "total_size": 35.108656128
 }
