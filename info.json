@@ -1,26 +1,31 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Where's My Bess-j4JCeeSaDKs.mp4",
-            "path": "music_e1/videos/Where's My Bess-j4JCeeSaDKs.mp4",
-            "size": 4.629781504
+            "path": "e1/videos/Where's My Bess-j4JCeeSaDKs.mp4",
+            "size": 4.629781504,
+            "url": "https://github.com/circuitalmynds/music_e1/blob/main/videos/Where's My Bess-j4JCeeSaDKs.mp4?raw=true"
         },
         {
             "name": "The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4",
-            "path": "music_e1/videos/The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4",
-            "size": 17.80132864
+            "path": "e1/videos/The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4",
+            "size": 17.80132864,
+            "url": "https://github.com/circuitalmynds/music_e1/blob/main/videos/The Essence - A Mirage 1987 (Subtitulada)-5DwJm9eIcx0.mp4?raw=true"
         },
         {
             "name": "George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4",
-            "path": "music_e1/videos/George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4",
-            "size": 12.677545984
+            "path": "e1/videos/George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4",
+            "size": 12.677545984,
+            "url": "https://github.com/circuitalmynds/music_e1/blob/main/videos/George Gershwin plays Gershwin's 'Rhapsody in Blue' (High quality)-vjgDhfpNSdc.mp4?raw=true"
         },
         {
             "name": "Endless Endless (2009 Remaster)-jwwWMkUpfsk.mp4",
-            "path": "music_e1/videos/Endless Endless (2009 Remaster)-jwwWMkUpfsk.mp4",
-            "size": 0.95265792
+            "path": "e1/videos/Endless Endless (2009 Remaster)-jwwWMkUpfsk.mp4",
+            "size": 0.95265792,
+            "url": "https://github.com/circuitalmynds/music_e1/blob/main/videos/Endless Endless (2009 Remaster)-jwwWMkUpfsk.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 36.061314048
 }
